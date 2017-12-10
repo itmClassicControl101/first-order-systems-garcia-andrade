@@ -1,0 +1,33 @@
+Check list for laboratory reports.
+
+Formato y forma:
+- [ ] Ortografía: Existen leves faltas de ortografa.
+- [x] Estilo: Muy estilo en la redacción y el formato
+- [x] Estructura
+- [ ] Originalidad: Información no referenciada = Palgio de https://es.wikipedia.org/wiki/Función_de_transferencia
+- [x] Imágenes, Tablas y Referencias
+- [ ] Estilo de referencias: No hay referencias
+
+Contenido:
+- [x] Introducción
+- [x] Metodología
+- [x] Desarrollo
+- [x] Simulación
+- [x] Resultados 
+- [x] Conclusiones
+
+Comparación de los resultados:
+- [x] Scilab y Ecuaciones 
+- [x] Respuesta al escalón
+- [ ] Modos de operación del sistema Wo=Wi, Wo><Wi: Excelente desarrollo en la comparación de los modos de operación. Sin embargo, 
+para el caso de Wo=Wi, no se percataron con que sólo era necesario hacer C muy grande o que no existiera. Implicando que Wi quedará en
+serie con Re.
+- [x] Conclusiones: 
+
+Repositorio:
+- [x] Carpetas
+- [x] Código Scilab
+- [x] Código de Latex
+- [x] Entregado en tiempo
+
+Grade -> 82
